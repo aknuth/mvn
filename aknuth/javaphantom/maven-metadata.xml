@@ -4,14 +4,8 @@
   <artifactId>javaphantom</artifactId>
   <versioning>
     <versions>
-<<<<<<< HEAD
       <version>0.1-JB-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20150817125031</lastUpdated>
-=======
-      <version>0.1-SNAPSHOT</version>
-    </versions>
-    <lastUpdated>20141020183514</lastUpdated>
->>>>>>> 7fe24b336e12852fd6476262c305629fbe5a12ad
+    <lastUpdated>20150817130310</lastUpdated>
   </versioning>
 </metadata>
